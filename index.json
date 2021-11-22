@@ -1,0 +1,20 @@
+{
+  "Data":[
+    { "url":"Data/1_Grade.csv", "name":"一年時学年名簿", "type":"students" },
+    { "url":"Data/1_1_All.csv", "name":"一年第一回実力テスト総合順位", "type":"all" },
+    { "url":"Data/1_1_Literature.csv", "name":"一年第一回実力テスト国語順位", "type":"literature" },
+    { "url":"Data/1_1_Mathematics1.csv", "name":"一年第一回実力テスト数学一順位", "type":"math1" },
+    { "url":"Data/1_1_English.csv", "name":"一年第一回実力テスト英語順位", "type":"english" },
+    { "url":"Data/1_2_All.csv", "name":"一年第二回実力テスト総合順位", "type":"all" },
+    { "url":"Data/1_2_Literature.csv", "name":"一年第二回実力テスト国語順位", "type":"literature" },
+    { "url":"Data/1_2_Mathematics1.csv", "name":"一年第二回実力テスト数学一順位", "type":"math1" },
+    { "url":"Data/1_2_Mathematics2.csv", "name":"一年第二回実力テスト数学二順位", "type":"math2" },
+    { "url":"Data/1_2_English.csv", "name":"一年第二回実力テスト英語順位", "type":"english" },
+    { "url":"Data/2_Grade.csv", "name":"二年時学年名簿", "type":"students" },
+    { "url":"Data/2_1_All.csv", "name":"二年第一回実力テスト総合順位", "type":"all" },
+    { "url":"Data/2_1_Literature.csv", "name":"二年第一回実力テスト国語順位", "type":"literature" },
+    { "url":"Data/2_1_Mathematics1.csv", "name":"二年第一回実力テスト数学一順位", "type":"math1" },
+    { "url":"Data/2_1_Mathematics2.csv", "name":"二年第一回実力テスト数学二順位", "type":"math2" },
+    { "url":"Data/2_1_English.csv", "name":"二年第一回実力テスト英語順位", "type":"english" }
+  ]
+}

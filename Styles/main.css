@@ -1,0 +1,28 @@
+h1{
+  margin: 5px;
+}
+#index{
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+#table{
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 200px;
+}
+#index .text{
+  margin: 3px;
+  font-size:10px;
+  color: blue;
+  text-decoration: underline;
+}
+#index .text:hover{
+  cursor:pointer;
+  text-decoration: none;
+}
+#table .text{
+  margin: 3px;
+  font-size:10px;
+  color: black;
+}
